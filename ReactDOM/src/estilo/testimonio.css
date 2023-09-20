@@ -1,0 +1,42 @@
+.contenedor {
+    border-radius: 50px;
+    width: 1170px;
+    height: 368px;
+    margin: 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 0 13px 5px #000a;
+    border: #000 3px solid;
+}
+
+.imagen {
+    border-radius: 44px 0 0 44px ;
+    width: auto;
+    height: 100%;
+}
+
+.contenedor-texto {
+    width: 100%;
+    font-size: 22px;
+    text-align: center;
+    padding: 40px;
+    font-size: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.3;
+}
+
+.nombre {
+    padding: 15px;
+    font-size: 34px;
+}
+
+.cargo {
+    padding-bottom: 25px;
+    font-size: 30px;
+}
+
+.texto {
+    text-align: justify;
+}

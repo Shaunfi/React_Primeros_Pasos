@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-size: 2vh;
+    background-color: #d7d1d7;
+}
+
+h1 {
+    max-width: 940px;
+    font-size: 4vh;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    line-height: 1.1;
+    margin: 40px 0;
+    font-style: italic;
+}
+
+.App {
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.contenedor-principal {
+    min-height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
